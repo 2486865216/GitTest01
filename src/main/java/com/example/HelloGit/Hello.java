@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("hello");
         System.out.println("test first");
         System.out.println("master second");
+        System.out.println("github test");
     }
 }
